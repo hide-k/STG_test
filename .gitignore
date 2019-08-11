@@ -1,0 +1,5 @@
+eccube_install.sh
+eccube_install.php
+.htaccess.sample
+app/cache/
+

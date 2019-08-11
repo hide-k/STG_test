@@ -1,0 +1,9 @@
+database:
+    driver: 'pdo_mysql'
+    host: 'stg-ecm3-db-instance-1.c72ybuwsqzem.ap-northeast-1.rds.amazonaws.com'
+    dbname: 'stg_ecm3'
+    port: '3306'
+    user: 'minkabu_admin'
+    password : 'minkabuccq'
+    charset: utf8
+    defaultTableOptions: { collate: utf8_general_ci }
