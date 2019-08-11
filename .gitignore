@@ -4,4 +4,5 @@ eccube_install.php
 app/cache/
 app/log/
 app/config/eccube/
+app/Plugin/
 
